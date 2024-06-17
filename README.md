@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @OkinoLeiba
 - 👀 I’m interested in anything outdoors, all sports, cooking and baking, brewaries, beaches bitches, etc.
-- 🌱 I’m currently mastering C++, C#, Python, PL/SQL, Javascript/Typescript, SQL Server, Java, etc.
+- 🌱 I’m currently mastering C++, C#, Python, PL/SQL, Javascript/Typescript, SQL (SQL Server, PL/SQL, PGSQL, MySQL), Java, etc.
 - 💞️ I’m looking to collaborate on any projects that will help me build my acumen.
 - 📫 How to reach me: two dixie cups and string, for now
 
@@ -22,7 +22,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ## 💾 Databases 
-![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/sqlserver-800000?style=for-the-badge&logo=sqlserver&logoColor=white) 
 ## ⚙️ IDEs 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-7252AA?style=for-the-badge&logo=visual-studio&logoColor=white) 
 ## 🛠️ Other Tool & Technologies 
